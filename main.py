@@ -13,7 +13,7 @@ db_config={
     'database':'trn'
 }
 
-bot = telebot.TeleBot("6635910391:AAEhGOuRYNTbJeLbKCw0CpcMTu50aTKUBUg")
+bot = telebot.TeleBot("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 
 # دکمه پنل کاربر برای گرفتن ترجمه متنش 
 trans_markup = ReplyKeyboardMarkup(resize_keyboard=True)
