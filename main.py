@@ -7,10 +7,10 @@ import mysql.connector
 from telebot.types import InlineKeyboardButton , InlineKeyboardMarkup , ReplyKeyboardMarkup , KeyboardButton
 
 db_config={
-    'host': 'localhost',
+    'host': 'LOC',
     'user': 'root',
-    'password':'password12345',
-    'database':'trn'
+    'password':'****************',
+    'database':'DB'
 }
 
 bot = telebot.TeleBot("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
